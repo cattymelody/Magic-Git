@@ -6,3 +6,5 @@
 
 ## Use Git to Learn Elisp
 
+## Funny Git
+
